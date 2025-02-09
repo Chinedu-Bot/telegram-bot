@@ -1,5 +1,5 @@
 global.prefix = '/'; // Set Your Preferred Prefix
-global.botName = 'GIFTED-MD'; // Bot Name
+global.botName = 'ELITEPRO'; // Bot Name
 global.botVersion = '2.0.0';
 global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
 global.botToken = '8100765631:AAFWIY-kSgcHFOfx9ZZxr4hK2AWyHZkCz0g'; // Replace With Your Bot Token (Get it from BotFather)
